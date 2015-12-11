@@ -1,0 +1,7 @@
+c:\users\jennc\documents\visual studio 2012\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\Checkout.csprojResolveAssemblyReference.cache
+c:\users\jennc\documents\visual studio 2012\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+c:\users\jennc\documents\visual studio 2012\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+c:\users\jennc\documents\visual studio 2012\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\nunit.framework.dll
+c:\users\jennc\documents\visual studio 2012\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\nunit.framework.xml
+c:\users\jennc\documents\visual studio 2012\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+c:\users\jennc\documents\visual studio 2012\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
